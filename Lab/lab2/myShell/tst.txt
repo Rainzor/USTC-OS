@@ -1,0 +1,7 @@
+lab2.pdf
+lab2_shellwithTODO
+lab2_shellwithTODO.c
+shell
+tst.txt
+hello
+bunge

@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/lib/modules/5.13.0-39-generic/build/include",
+                "/lib/modules/5.13.0-39-generic/build/arch/x86/include",
+                "/usr/src/linux-hwe-5.13-headers-5.13.0-39/include/uapi",
+                "/usr/src/linux-headers-5.13.0-39-generic/arch/x86/include/generated"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu17",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}

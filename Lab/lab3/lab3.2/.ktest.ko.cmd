@@ -1,0 +1,1 @@
+cmd_/home/rainzor/oslab/lab3/lab3.2/ktest.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/rainzor/oslab/lab3/lab3.2/ktest.ko /home/rainzor/oslab/lab3/lab3.2/ktest.o /home/rainzor/oslab/lab3/lab3.2/ktest.mod.o;  true
